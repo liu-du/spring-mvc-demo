@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h2>Spring MVC Demo - Home Page</h2>
-	<form action="processFormVersionTwo" method="GET">
+	<form action="processFormVersionThree" method="GET">
 		<input type="text" name="studentName" placeholder="what's your name?" />
 		<input type="submit"/>
 	</form>
